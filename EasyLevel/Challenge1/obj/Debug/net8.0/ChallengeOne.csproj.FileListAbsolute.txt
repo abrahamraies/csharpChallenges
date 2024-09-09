@@ -1,0 +1,14 @@
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\bin\Debug\net8.0\ChallengeOne.exe
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\bin\Debug\net8.0\ChallengeOne.deps.json
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\bin\Debug\net8.0\ChallengeOne.runtimeconfig.json
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\bin\Debug\net8.0\ChallengeOne.dll
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\bin\Debug\net8.0\ChallengeOne.pdb
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.AssemblyInfo.cs
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.dll
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\refint\ChallengeOne.dll
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.pdb
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ChallengeOne.genruntimeconfig.cache
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\ChallengeOne\ChallengeOne\obj\Debug\net8.0\ref\ChallengeOne.dll

@@ -1,0 +1,14 @@
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.AssemblyInfoInputs.cache
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.AssemblyInfo.cs
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.csproj.CoreCompileInputs.cache
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\bin\Debug\net8.0\Challenge6.exe
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\bin\Debug\net8.0\Challenge6.deps.json
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\bin\Debug\net8.0\Challenge6.runtimeconfig.json
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\bin\Debug\net8.0\Challenge6.dll
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\bin\Debug\net8.0\Challenge6.pdb
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.dll
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\refint\Challenge6.dll
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.pdb
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\Challenge6.genruntimeconfig.cache
+C:\Users\PC-GEN01\vscode_projects\csharpChallenges\MidLevel\Challenge6\obj\Debug\net8.0\ref\Challenge6.dll
